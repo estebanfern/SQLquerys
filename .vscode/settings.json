@@ -10,5 +10,12 @@
             "database": "pruebas",
             "username": "postgres"
         }
+    ],
+    "java.project.sourcePaths": [
+        "jdbc\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "jdbc\\lib\\postgresql-42.3.4.jar"
     ]
 }
